@@ -80,18 +80,5 @@ public class SortingArrays{
       }
    }
    
-   //MERGE SORT -- recursively dividing the arary until
-   //       its 2 or 3 index long and then sorting elements
-   //       and then merging them back together
-   
-   
-   //merge sort imporved algo -- no recursion but iteration
-      
-   
-   
-   //QUICK SORT --sorting by moving closer to the pivot
-   public static void quickSort(int[] a){
-   
-   }
    
 } 
